@@ -5,7 +5,7 @@ I made this chart in notepad during my spare time, adding onto it every so often
 
 Ok, that was all. Feel free to use, share, add onto, etc. I would appreciate it if you'd not claim my work as your own, so it would be awesome if you use it to credit me in some way, like leave a link to this repository. Thanks.
 
-I also noticed that the formatting is a bit broken if you view it on GitHub. For the best viewing experience, download the file, and open it with Notepad.
+I also noticed that sometimes, the formatting is a bit broken if you view the chart on GitHub. For the best viewing experience, download the file, and open it with Notepad. Zoom out if necessary.
 
 Alrighty,
 Have fun!
