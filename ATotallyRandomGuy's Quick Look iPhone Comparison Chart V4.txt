@@ -49,3 +49,5 @@ iPhone 13          | released 2021 | Square design | 128GB, 256GB, 512GB      | 
 iPhone 13 Pro      | released 2021 | Square design | 256GB, 512GB, 1TB        | 15.0 - 15.3.1 | back x3 12MP front x1 12MP   | 3095 mAh  |   $999   | x4: Sierra Blue, Silver, Gold, Graphite                --
 iPhone 13 Pro Max  | released 2021 | Square design | 256GB, 512GB, 1TB        | 15.0 - 15.3.1 | back x3 12MP front x1 12MP   | 4352 mAh  |  $1099   | x4: Sierra Blue, Silver, Gold, Graphite                --
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+iPhone SE (2022/3) | released 2022 | Round design  | 64GB, 128GB, 256GB       | 15.  - 1      | back x1 12MP front x1 12MP   | 1821 mAh  |   $429   | x3: Midnight, Starlight, Product(Red)                  --
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
